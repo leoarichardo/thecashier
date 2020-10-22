@@ -1,0 +1,2 @@
+# thecashier
+Aplikasi kasir sederhana
