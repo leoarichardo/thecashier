@@ -1,5 +1,6 @@
 # Cashier Apps
-(Introduction) Aplikasi ini merupakan aplikasi kasir sederhana yang berfungsi untuk melakukan perhitungan transaksi barang/jasa dengan cara menginputkan jumlah dan harganya.
+(Introduction) 
+Aplikasi ini merupakan aplikasi kasir sederhana yang berfungsi untuk melakukan perhitungan transaksi barang/jasa dengan cara menginputkan jumlah dan harganya.
 
 Scope of functionalities
 User dapat memasukkan Nama
